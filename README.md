@@ -1,4 +1,7 @@
 ##### A number guessing game project that allows users to speak their guesses using a web browser's speech recognition service. The code retrieves an HTML element for displaying messages to the user, generates a random number, sets up the speech recognition service, and creates functions for handling user input and checking whether the user's spoken input is a valid number. The code also sets up event listeners for the speech recognition service and for the "Play Again" button.
+
+For this project I used the [MDN - API speech recognition documentation](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+
 <hr>
 
 #### Js file
